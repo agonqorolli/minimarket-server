@@ -1,6 +1,6 @@
 # MiniMarket Server
 Serverless Infrastructure of MiniMarket App.
-React implementation of MiniMarket Server can be found in this [repo](https://github.com/agonqorolli/minimarket-client), 
+React implementation of MiniMarket App can be found in this [repo](https://github.com/agonqorolli/minimarket-client), 
 and live hosting of such app can be found [here](https://main.d2jsglc8ny66a.amplifyapp.com/).
 
 ---
