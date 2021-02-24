@@ -26,5 +26,3 @@ and live hosting of such app can be found [here](https://main.d2jsglc8ny66a.ampl
 ### Infrastructure
 
 ![Serverless Infrastructure](https://github.com/agonqorolli/minimarket-server/blob/main/images/infrastructure.png)
-
-
