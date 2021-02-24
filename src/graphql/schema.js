@@ -75,6 +75,8 @@ const typeDefs = gql`
         id: ID!
         name: String
         price: Float
+        image: String
+        stripe_price: String
     }
 
     # queries.graphql
